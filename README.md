@@ -1,8 +1,13 @@
 # Proyecto-Integrador-Final
 
 Temática del sitio: Delivery de comida rápida. 
+
 Público Objetivo: adolescentes y jovenes.
 
+Integrantes del grupo: 
+- Barros Katerina
+- Barolo Ignacio 
+- Natel Guillermina
 
 Link al Wireframe en Figma:
 
