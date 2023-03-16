@@ -14,7 +14,7 @@ Landing Page:
 
 ![Landing Page](https://user-images.githubusercontent.com/103141811/225652964-fd0e0982-b9b2-4c3b-90a3-514f84ead224.png)
 
-![Landing Page2](https://user-images.githubusercontent.com/103141811/225655231-9377a773-955a-4ef7-871a-40fd115762e9.png)
+![Landing Page2](https://user-images.githubusercontent.com/103141811/225656303-f3751b53-957e-4392-a1f9-19dede07bd34.png)
 
 ![Landing Page3](https://user-images.githubusercontent.com/103141811/225654016-9d187246-bc1a-4e10-8f47-702e3fe7895b.png)
 
