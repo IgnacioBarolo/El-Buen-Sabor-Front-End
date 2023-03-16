@@ -6,4 +6,5 @@ Link al Wireframe en Figma:
 
 
 Tecnologías:
+
 [![spring-boot](https://user-images.githubusercontent.com/103141811/225681962-b3124123-393c-41bf-ae16-8b8cfdb948c3.svg)](https://spring.io/)
