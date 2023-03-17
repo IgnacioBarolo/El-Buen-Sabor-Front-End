@@ -20,4 +20,4 @@ Tecnologías:
 ![spring-boot](https://user-images.githubusercontent.com/103141811/225782217-3370bdd9-bc70-4faa-a275-3b67c16e715c.png)
 ![javascript](https://user-images.githubusercontent.com/103141811/225782241-0c9fde9a-d28e-480d-aba5-a7a1039cd437.png)
 [![react](https://user-images.githubusercontent.com/103141811/225781326-385f1423-29fc-44bf-88d4-7c2e5929f603.png)](https://es.reactjs.org/)
-
+![mysql-logo](https://user-images.githubusercontent.com/103141811/225782437-9acd133a-489e-4272-83a8-d2c2d494e33b.png)
