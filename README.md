@@ -2,7 +2,7 @@
 
 Temática del sitio: Delivery de comida rápida. 
 
-Público Objetivo: Adolescentes y jovenes.
+Público Objetivo: Adolescentes y jóvenes.
 
 Integrantes del grupo: 
 - [Barolo Ignacio](https://github.com/IgnacioBarolo)
