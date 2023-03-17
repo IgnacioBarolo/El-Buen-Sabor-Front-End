@@ -24,3 +24,4 @@ Tecnologías:
 ![git](https://user-images.githubusercontent.com/103141811/225782811-b35f8287-d128-4cdf-9788-8c61d9732eb1.png)
 ![css3](https://user-images.githubusercontent.com/103141811/225782815-b7f4b990-f8da-4cce-9c7d-a72750ad2e2e.png)
 ![html5](https://user-images.githubusercontent.com/103141811/225786922-0b2564c9-6abf-400c-b219-fb5ab358ba9b.png)
+![bootstrap](https://user-images.githubusercontent.com/103141811/225787186-90800b29-d0c3-4001-ad40-f9ebeaa8fa64.png)
