@@ -23,4 +23,4 @@ Tecnologías:
 ![mysql-logo](https://user-images.githubusercontent.com/103141811/225782437-9acd133a-489e-4272-83a8-d2c2d494e33b.png)
 ![git](https://user-images.githubusercontent.com/103141811/225782811-b35f8287-d128-4cdf-9788-8c61d9732eb1.png)
 ![css3](https://user-images.githubusercontent.com/103141811/225782815-b7f4b990-f8da-4cce-9c7d-a72750ad2e2e.png)
-![html5](https://user-images.githubusercontent.com/103141811/225786769-5351e867-6b73-4cdd-8012-593370ba7d66.png)
+![html5](https://user-images.githubusercontent.com/103141811/225786922-0b2564c9-6abf-400c-b219-fb5ab358ba9b.png)
