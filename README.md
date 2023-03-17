@@ -15,5 +15,4 @@ Link al Wireframe en Figma:
 
 Tecnologías:
 
-[![react](https://user-images.githubusercontent.com/103141811/225780602-02b9198b-39e6-49b9-a053-27b0ca1e7fcc.svg)](https://es.reactjs.org/)
-
+[![react](https://user-images.githubusercontent.com/103141811/225781053-7ede42a8-f9ed-4a0e-a6c1-3a8c69bf8be0.svg)](https://es.reactjs.org/)
