@@ -2,12 +2,12 @@
 
 Temática del sitio: Delivery de comida rápida. 
 
-Público Objetivo: adolescentes y jovenes.
+Público Objetivo: Adolescentes y jovenes.
 
 Integrantes del grupo: 
 - [Barolo Ignacio](https://github.com/IgnacioBarolo)
-- Barros Katerina
-- Natel Guillermina
+- [Barros Katerina](https://github.com/KaterinaBarros)
+- [Natel Guillermina](https://github.com/guillenatel)
 
 Link al Wireframe en Figma:
 
