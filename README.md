@@ -1,8 +1,13 @@
-# Proyecto-Integrador-Final
+# Proyecto-Integrador-Final 
+
+Nombre: El buen sabor
+
+Logo: ![Logo El buen Sabor](https://user-images.githubusercontent.com/103141811/226768617-31eb565d-40c2-45e9-9cd1-c22d8bb5e685.png)
 
 Temática del sitio: Delivery de comida rápida. 
 
 Público Objetivo: Adolescentes y jóvenes.
+
 
 Integrantes del grupo: 
 - [Barolo Ignacio](https://github.com/IgnacioBarolo)
