@@ -1,9 +1,5 @@
 # Proyecto-Integrador-Final
 
-Nombre: El buen sabor
-
-
-
 ![Logo El buen Sabor (250x250) Redondeado](https://user-images.githubusercontent.com/103141811/226771654-bbc6718c-0688-4e55-8db2-2b83e7c9f8f2.png)
 
 Temática del sitio: Delivery de comida rápida. 
