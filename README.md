@@ -25,4 +25,3 @@ Tecnologías:
 ![css3](https://user-images.githubusercontent.com/103141811/225782815-b7f4b990-f8da-4cce-9c7d-a72750ad2e2e.png)
 ![html5](https://user-images.githubusercontent.com/103141811/225786922-0b2564c9-6abf-400c-b219-fb5ab358ba9b.png)
 ![bootstrap](https://user-images.githubusercontent.com/103141811/225787186-90800b29-d0c3-4001-ad40-f9ebeaa8fa64.png)
-![Black_and_White_Simple_Minimalist_Modern_Burgers_Food_Circle_Logo-removebg-preview](https://user-images.githubusercontent.com/103141811/226768502-ebdc0f2b-8a2d-42c7-8dfd-746d0eb01257.png)
