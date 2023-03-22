@@ -9,8 +9,6 @@ Temática del sitio: Delivery de comida rápida.
 
 Público Objetivo: Adolescentes y jóvenes.
 
-![Logo El buen Sabor (120x120)](https://user-images.githubusercontent.com/103141811/226770225-b048672a-4c6f-4747-bfed-14084f07715e.jpg)
-
 Integrantes del grupo: 
 - [Barolo Ignacio](https://github.com/IgnacioBarolo)
 - [Barros Katerina](https://github.com/KaterinaBarros)
