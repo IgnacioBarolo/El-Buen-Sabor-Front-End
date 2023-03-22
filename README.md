@@ -2,7 +2,8 @@
 
 Nombre: El buen sabor
 
-Logo: ![Logo El buen Sabor (28x28)](https://user-images.githubusercontent.com/103141811/226768942-b60a9bdd-631e-4c07-87c8-cc22957c3f43.png)
+Logo: 
+![Logo El buen Sabor (28x28)](https://user-images.githubusercontent.com/103141811/226768942-b60a9bdd-631e-4c07-87c8-cc22957c3f43.png)
 
 
 Temática del sitio: Delivery de comida rápida. 
